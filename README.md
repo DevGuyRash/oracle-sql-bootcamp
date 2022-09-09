@@ -1,5 +1,28 @@
 # SQL Oracle Masterclass
 
+# Table Of Contents
+
+1. [Section 1: Database Concepts](#user-content-section-1-database-concepts)
+2. [Section 2: Download & Installation](#user-content-section-2-download--installation)
+3. [Section 3: Retreiving Data](#user-content-section-3-retrieving-data)
+4. [Section 4: Restricting Data](#user-content-section-4-restricting-data)
+5. [Section 5: Sorting Data](#user-content-section-5-sorting-data)
+6. [Section 6: Using Subsitution Variables](#user-content-section-6-using-subsitution-variables)
+7. [Section 7: Single-row Functions](#user-content-section-7-single-row-functions)
+8. [Section 8: Conversion Functions](#user-content-section-8-conversion-functions)
+9. [Section 10: Group Functions](#user-content-section-10-group-functions)
+10. [Section 11: Grouping Data](#user-content-section-11-grouping-data)
+11. [Section 12: Joining Multiple Tables](#user-content-section-12-joining-multiple-tables)
+12. [Section 13: Using Subqueries (Nested Queries)](#user-content-section-13-using-subqueries-nested-queries)
+13. [Section 14: Working With The Oracle SET Operators](#user-content-section-14-working-with-the-oracle-set-operators)
+14. [Section 15: Data Definition Language (DDL)](#user-content-section-15-data-definition-language-ddl)
+15. [Section 16: Data Manipulation Language (DML)](#user-content-section-16-data-manipulation-language-dml)
+16. [Section 17: Constraints](#user-content-section-17-constraints)
+17. [Section 18: Database Views](#user-content-section-18-database-views)
+18. [Section 19: Data Dictionary Views](#user-content-section-19-data-dictionary-views)
+19. [Section 20: Oracle Sequences](#user-content-section-20-oracle-sequences)
+20. [Section 21: Oracle Synonyms](#user-content-section-20-oracle-sequences)
+
 # Section 1: Database Concepts
 
 ## General Notes
@@ -3731,7 +3754,7 @@ SET CONSTRAINTS ALL IMMEDIATE | DEFERRED;
 ALTER SESSION SET CONSTRAINTS ALL = IMMEDIATE | DEFERRED;
 ```
 
-# Section 19: Database Views
+# Section 18: Database Views
 
 ## General Notes
 
